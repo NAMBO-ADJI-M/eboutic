@@ -1,0 +1,5 @@
+00:00 +0: loading C:/Users/User/developpementmobile/eboutic/test/models/produit_model_test.dart
+00:00 +0: toMap includes expected fields
+00:00 +1: fromDoc reconstructs Produit and applies defaults
+00:00 +2: fromDoc handles missing fields
+00:00 +3: All tests passed!

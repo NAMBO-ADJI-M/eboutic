@@ -1,0 +1,5 @@
+00:00 +0: loading C:/Users/User/developpementmobile/eboutic/test/models/commande_model_test.dart
+00:00 +0: toMap includes expected fields and date is ISO string
+00:00 +1: fromDoc rebuilds Commande from map and respects produit mapping
+00:00 +2: fromDoc handles missing fields gracefully
+00:00 +3: All tests passed!
